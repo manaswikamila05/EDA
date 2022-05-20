@@ -1,6 +1,6 @@
 # Zomato - The Online Foodking and Pioneer Food Tech Unicorn of India 
 
-![Zomato]([http://url/to/img.png](https://github.com/manaswikamila05/EDA/blob/main/Zomato%20Restaurants%20Data/Food.jpg))
+![Zomato](https://github.com/manaswikamila05/EDA/blob/main/Zomato%20Restaurants%20Data/Food.jpg)
 
 Zomato was founded by Deepinder Goyal and Pankaj Chaddah in 2008 and is the Indian multinational restaurant aggregator and food delivery and supply service. Zomato provides restaurants with information, menus, and user reviews of restaurants, as well as food supply options from partner restaurants in specific cities.
 
