@@ -1,4 +1,4 @@
-# Zomato - The Online Foodking and Pioneer Food Tech Unicorn of India 
+##  Zomato - The Online Foodking, Pioneer Food Tech Unicorn of India 
 
 ![Zomato](https://github.com/manaswikamila05/EDA/blob/main/Zomato%20Restaurants%20Data/Food.jpg)
 
